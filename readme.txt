@@ -27,17 +27,15 @@ File Description:
 
 =================
 
-DES_Cipher.py		DES3 Python Programs
+SHA_One.py		SHA1 Python Programs
 
 plaintext.txt		Sample Input File
 
-crypto.txt		Ciphertext File
+hvalue.txt		Sample Output Hash File
 
-cleartext.txt		Ciphertext converted into Plaintext File
+readme.txt		Instruction Manual (This file)
 
-ReadMe.txt		Instruction Manual (This file)
-
-DES3.png		Screenshot of output
+SHA1.png		Screenshot of output
 
 
 
