@@ -1,6 +1,6 @@
 # CRYPTOGRAPHY
 
 
-# 1. 3DES
+# 1 3DES
 
-# 2. SHA1
+# 2 SHA1
